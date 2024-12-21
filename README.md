@@ -4,6 +4,8 @@
 
 Bu proje, **Bootstrap** framework'ü kullanarak modern web tasarımını öğrenmek ve pratik yapmak amacıyla geliştirilmiştir. İçerikler yerine, proje genel olarak **layoutlar**, **componentler** ve **Bootstrap** sınıflarının nasıl kullanıldığına odaklanmaktadır. 🚀
 
+Canlı Demo: (https://engincanaraz-event-blog.netlify.app/) 🌐
+
 ## Kullanılan Teknolojiler 🛠️
 
 - **HTML5**: Sayfa yapısı için temel HTML öğeleri.
