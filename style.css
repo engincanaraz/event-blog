@@ -1,0 +1,29 @@
+
+.bg-1 {
+  background-color: rgb(37, 87, 229) !important;
+}
+.bg-2 {
+  background-color: rgb(125, 212, 251) !important;
+}
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+}
+.img-fluid {
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  object-fit: cover;
+  background-size: auto;
+}
+#map {
+  height: 450px;
+}
+@media (min-width: 768px) {
+  .card-img-top {
+    height: 32vh;
+  }
+  #map {
+    height: 100%;
+  }
+}
